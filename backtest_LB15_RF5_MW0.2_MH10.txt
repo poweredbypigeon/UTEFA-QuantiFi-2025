@@ -1,0 +1,395 @@
+TRANSACTION LOG:
+
+
+PORTFOLIO LOG:
+Day 11: Portfolio Value: $100,000.00
+  Cash: $100,000.00
+  Stock_A: 0.00 shares, Value: $0.00
+  Stock_B: 0.00 shares, Value: $0.00
+  Stock_C: 0.00 shares, Value: $0.00
+  Stock_D: 0.00 shares, Value: $0.00
+  Stock_E: 0.00 shares, Value: $0.00
+
+Day 16: Portfolio Value: $100,000.00
+  Cash: $100,000.00
+  Stock_A: 0.00 shares, Value: $0.00
+  Stock_B: 0.00 shares, Value: $0.00
+  Stock_C: 0.00 shares, Value: $0.00
+  Stock_D: 0.00 shares, Value: $0.00
+  Stock_E: 0.00 shares, Value: $0.00
+
+Day 21: Portfolio Value: $100,000.00
+  Cash: $100,000.00
+  Stock_A: 0.00 shares, Value: $0.00
+  Stock_B: 0.00 shares, Value: $0.00
+  Stock_C: 0.00 shares, Value: $0.00
+  Stock_D: 0.00 shares, Value: $0.00
+  Stock_E: 0.00 shares, Value: $0.00
+
+Day 26: Portfolio Value: $100,000.00
+  Cash: $100,000.00
+  Stock_A: 0.00 shares, Value: $0.00
+  Stock_B: 0.00 shares, Value: $0.00
+  Stock_C: 0.00 shares, Value: $0.00
+  Stock_D: 0.00 shares, Value: $0.00
+  Stock_E: 0.00 shares, Value: $0.00
+
+Day 31: Portfolio Value: $100,000.00
+  Cash: $100,000.00
+  Stock_A: 0.00 shares, Value: $0.00
+  Stock_B: 0.00 shares, Value: $0.00
+  Stock_C: 0.00 shares, Value: $0.00
+  Stock_D: 0.00 shares, Value: $0.00
+  Stock_E: 0.00 shares, Value: $0.00
+
+Day 36: Portfolio Value: $100,000.00
+  Cash: $100,000.00
+  Stock_A: 0.00 shares, Value: $0.00
+  Stock_B: 0.00 shares, Value: $0.00
+  Stock_C: 0.00 shares, Value: $0.00
+  Stock_D: 0.00 shares, Value: $0.00
+  Stock_E: 0.00 shares, Value: $0.00
+
+Day 41: Portfolio Value: $100,000.00
+  Cash: $100,000.00
+  Stock_A: 0.00 shares, Value: $0.00
+  Stock_B: 0.00 shares, Value: $0.00
+  Stock_C: 0.00 shares, Value: $0.00
+  Stock_D: 0.00 shares, Value: $0.00
+  Stock_E: 0.00 shares, Value: $0.00
+
+Day 46: Portfolio Value: $100,000.00
+  Cash: $100,000.00
+  Stock_A: 0.00 shares, Value: $0.00
+  Stock_B: 0.00 shares, Value: $0.00
+  Stock_C: 0.00 shares, Value: $0.00
+  Stock_D: 0.00 shares, Value: $0.00
+  Stock_E: 0.00 shares, Value: $0.00
+
+Day 51: Portfolio Value: $100,000.00
+  Cash: $100,000.00
+  Stock_A: 0.00 shares, Value: $0.00
+  Stock_B: 0.00 shares, Value: $0.00
+  Stock_C: 0.00 shares, Value: $0.00
+  Stock_D: 0.00 shares, Value: $0.00
+  Stock_E: 0.00 shares, Value: $0.00
+
+Day 56: Portfolio Value: $100,000.00
+  Cash: $100,000.00
+  Stock_A: 0.00 shares, Value: $0.00
+  Stock_B: 0.00 shares, Value: $0.00
+  Stock_C: 0.00 shares, Value: $0.00
+  Stock_D: 0.00 shares, Value: $0.00
+  Stock_E: 0.00 shares, Value: $0.00
+
+Day 61: Portfolio Value: $100,000.00
+  Cash: $100,000.00
+  Stock_A: 0.00 shares, Value: $0.00
+  Stock_B: 0.00 shares, Value: $0.00
+  Stock_C: 0.00 shares, Value: $0.00
+  Stock_D: 0.00 shares, Value: $0.00
+  Stock_E: 0.00 shares, Value: $0.00
+
+Day 66: Portfolio Value: $100,000.00
+  Cash: $100,000.00
+  Stock_A: 0.00 shares, Value: $0.00
+  Stock_B: 0.00 shares, Value: $0.00
+  Stock_C: 0.00 shares, Value: $0.00
+  Stock_D: 0.00 shares, Value: $0.00
+  Stock_E: 0.00 shares, Value: $0.00
+
+Day 71: Portfolio Value: $100,000.00
+  Cash: $100,000.00
+  Stock_A: 0.00 shares, Value: $0.00
+  Stock_B: 0.00 shares, Value: $0.00
+  Stock_C: 0.00 shares, Value: $0.00
+  Stock_D: 0.00 shares, Value: $0.00
+  Stock_E: 0.00 shares, Value: $0.00
+
+Day 76: Portfolio Value: $100,000.00
+  Cash: $100,000.00
+  Stock_A: 0.00 shares, Value: $0.00
+  Stock_B: 0.00 shares, Value: $0.00
+  Stock_C: 0.00 shares, Value: $0.00
+  Stock_D: 0.00 shares, Value: $0.00
+  Stock_E: 0.00 shares, Value: $0.00
+
+Day 81: Portfolio Value: $100,000.00
+  Cash: $100,000.00
+  Stock_A: 0.00 shares, Value: $0.00
+  Stock_B: 0.00 shares, Value: $0.00
+  Stock_C: 0.00 shares, Value: $0.00
+  Stock_D: 0.00 shares, Value: $0.00
+  Stock_E: 0.00 shares, Value: $0.00
+
+Day 86: Portfolio Value: $100,000.00
+  Cash: $100,000.00
+  Stock_A: 0.00 shares, Value: $0.00
+  Stock_B: 0.00 shares, Value: $0.00
+  Stock_C: 0.00 shares, Value: $0.00
+  Stock_D: 0.00 shares, Value: $0.00
+  Stock_E: 0.00 shares, Value: $0.00
+
+Day 91: Portfolio Value: $100,000.00
+  Cash: $100,000.00
+  Stock_A: 0.00 shares, Value: $0.00
+  Stock_B: 0.00 shares, Value: $0.00
+  Stock_C: 0.00 shares, Value: $0.00
+  Stock_D: 0.00 shares, Value: $0.00
+  Stock_E: 0.00 shares, Value: $0.00
+
+Day 96: Portfolio Value: $100,000.00
+  Cash: $100,000.00
+  Stock_A: 0.00 shares, Value: $0.00
+  Stock_B: 0.00 shares, Value: $0.00
+  Stock_C: 0.00 shares, Value: $0.00
+  Stock_D: 0.00 shares, Value: $0.00
+  Stock_E: 0.00 shares, Value: $0.00
+
+Day 101: Portfolio Value: $100,000.00
+  Cash: $100,000.00
+  Stock_A: 0.00 shares, Value: $0.00
+  Stock_B: 0.00 shares, Value: $0.00
+  Stock_C: 0.00 shares, Value: $0.00
+  Stock_D: 0.00 shares, Value: $0.00
+  Stock_E: 0.00 shares, Value: $0.00
+
+Day 106: Portfolio Value: $100,000.00
+  Cash: $100,000.00
+  Stock_A: 0.00 shares, Value: $0.00
+  Stock_B: 0.00 shares, Value: $0.00
+  Stock_C: 0.00 shares, Value: $0.00
+  Stock_D: 0.00 shares, Value: $0.00
+  Stock_E: 0.00 shares, Value: $0.00
+
+Day 111: Portfolio Value: $100,000.00
+  Cash: $100,000.00
+  Stock_A: 0.00 shares, Value: $0.00
+  Stock_B: 0.00 shares, Value: $0.00
+  Stock_C: 0.00 shares, Value: $0.00
+  Stock_D: 0.00 shares, Value: $0.00
+  Stock_E: 0.00 shares, Value: $0.00
+
+Day 116: Portfolio Value: $100,000.00
+  Cash: $100,000.00
+  Stock_A: 0.00 shares, Value: $0.00
+  Stock_B: 0.00 shares, Value: $0.00
+  Stock_C: 0.00 shares, Value: $0.00
+  Stock_D: 0.00 shares, Value: $0.00
+  Stock_E: 0.00 shares, Value: $0.00
+
+Day 121: Portfolio Value: $100,000.00
+  Cash: $100,000.00
+  Stock_A: 0.00 shares, Value: $0.00
+  Stock_B: 0.00 shares, Value: $0.00
+  Stock_C: 0.00 shares, Value: $0.00
+  Stock_D: 0.00 shares, Value: $0.00
+  Stock_E: 0.00 shares, Value: $0.00
+
+Day 126: Portfolio Value: $100,000.00
+  Cash: $100,000.00
+  Stock_A: 0.00 shares, Value: $0.00
+  Stock_B: 0.00 shares, Value: $0.00
+  Stock_C: 0.00 shares, Value: $0.00
+  Stock_D: 0.00 shares, Value: $0.00
+  Stock_E: 0.00 shares, Value: $0.00
+
+Day 131: Portfolio Value: $100,000.00
+  Cash: $100,000.00
+  Stock_A: 0.00 shares, Value: $0.00
+  Stock_B: 0.00 shares, Value: $0.00
+  Stock_C: 0.00 shares, Value: $0.00
+  Stock_D: 0.00 shares, Value: $0.00
+  Stock_E: 0.00 shares, Value: $0.00
+
+Day 136: Portfolio Value: $100,000.00
+  Cash: $100,000.00
+  Stock_A: 0.00 shares, Value: $0.00
+  Stock_B: 0.00 shares, Value: $0.00
+  Stock_C: 0.00 shares, Value: $0.00
+  Stock_D: 0.00 shares, Value: $0.00
+  Stock_E: 0.00 shares, Value: $0.00
+
+Day 141: Portfolio Value: $100,000.00
+  Cash: $100,000.00
+  Stock_A: 0.00 shares, Value: $0.00
+  Stock_B: 0.00 shares, Value: $0.00
+  Stock_C: 0.00 shares, Value: $0.00
+  Stock_D: 0.00 shares, Value: $0.00
+  Stock_E: 0.00 shares, Value: $0.00
+
+Day 146: Portfolio Value: $100,000.00
+  Cash: $100,000.00
+  Stock_A: 0.00 shares, Value: $0.00
+  Stock_B: 0.00 shares, Value: $0.00
+  Stock_C: 0.00 shares, Value: $0.00
+  Stock_D: 0.00 shares, Value: $0.00
+  Stock_E: 0.00 shares, Value: $0.00
+
+Day 151: Portfolio Value: $100,000.00
+  Cash: $100,000.00
+  Stock_A: 0.00 shares, Value: $0.00
+  Stock_B: 0.00 shares, Value: $0.00
+  Stock_C: 0.00 shares, Value: $0.00
+  Stock_D: 0.00 shares, Value: $0.00
+  Stock_E: 0.00 shares, Value: $0.00
+
+Day 156: Portfolio Value: $100,000.00
+  Cash: $100,000.00
+  Stock_A: 0.00 shares, Value: $0.00
+  Stock_B: 0.00 shares, Value: $0.00
+  Stock_C: 0.00 shares, Value: $0.00
+  Stock_D: 0.00 shares, Value: $0.00
+  Stock_E: 0.00 shares, Value: $0.00
+
+Day 161: Portfolio Value: $100,000.00
+  Cash: $100,000.00
+  Stock_A: 0.00 shares, Value: $0.00
+  Stock_B: 0.00 shares, Value: $0.00
+  Stock_C: 0.00 shares, Value: $0.00
+  Stock_D: 0.00 shares, Value: $0.00
+  Stock_E: 0.00 shares, Value: $0.00
+
+Day 166: Portfolio Value: $100,000.00
+  Cash: $100,000.00
+  Stock_A: 0.00 shares, Value: $0.00
+  Stock_B: 0.00 shares, Value: $0.00
+  Stock_C: 0.00 shares, Value: $0.00
+  Stock_D: 0.00 shares, Value: $0.00
+  Stock_E: 0.00 shares, Value: $0.00
+
+Day 171: Portfolio Value: $100,000.00
+  Cash: $100,000.00
+  Stock_A: 0.00 shares, Value: $0.00
+  Stock_B: 0.00 shares, Value: $0.00
+  Stock_C: 0.00 shares, Value: $0.00
+  Stock_D: 0.00 shares, Value: $0.00
+  Stock_E: 0.00 shares, Value: $0.00
+
+Day 176: Portfolio Value: $100,000.00
+  Cash: $100,000.00
+  Stock_A: 0.00 shares, Value: $0.00
+  Stock_B: 0.00 shares, Value: $0.00
+  Stock_C: 0.00 shares, Value: $0.00
+  Stock_D: 0.00 shares, Value: $0.00
+  Stock_E: 0.00 shares, Value: $0.00
+
+Day 181: Portfolio Value: $100,000.00
+  Cash: $100,000.00
+  Stock_A: 0.00 shares, Value: $0.00
+  Stock_B: 0.00 shares, Value: $0.00
+  Stock_C: 0.00 shares, Value: $0.00
+  Stock_D: 0.00 shares, Value: $0.00
+  Stock_E: 0.00 shares, Value: $0.00
+
+Day 186: Portfolio Value: $100,000.00
+  Cash: $100,000.00
+  Stock_A: 0.00 shares, Value: $0.00
+  Stock_B: 0.00 shares, Value: $0.00
+  Stock_C: 0.00 shares, Value: $0.00
+  Stock_D: 0.00 shares, Value: $0.00
+  Stock_E: 0.00 shares, Value: $0.00
+
+Day 191: Portfolio Value: $100,000.00
+  Cash: $100,000.00
+  Stock_A: 0.00 shares, Value: $0.00
+  Stock_B: 0.00 shares, Value: $0.00
+  Stock_C: 0.00 shares, Value: $0.00
+  Stock_D: 0.00 shares, Value: $0.00
+  Stock_E: 0.00 shares, Value: $0.00
+
+Day 196: Portfolio Value: $100,000.00
+  Cash: $100,000.00
+  Stock_A: 0.00 shares, Value: $0.00
+  Stock_B: 0.00 shares, Value: $0.00
+  Stock_C: 0.00 shares, Value: $0.00
+  Stock_D: 0.00 shares, Value: $0.00
+  Stock_E: 0.00 shares, Value: $0.00
+
+Day 201: Portfolio Value: $100,000.00
+  Cash: $100,000.00
+  Stock_A: 0.00 shares, Value: $0.00
+  Stock_B: 0.00 shares, Value: $0.00
+  Stock_C: 0.00 shares, Value: $0.00
+  Stock_D: 0.00 shares, Value: $0.00
+  Stock_E: 0.00 shares, Value: $0.00
+
+Day 206: Portfolio Value: $100,000.00
+  Cash: $100,000.00
+  Stock_A: 0.00 shares, Value: $0.00
+  Stock_B: 0.00 shares, Value: $0.00
+  Stock_C: 0.00 shares, Value: $0.00
+  Stock_D: 0.00 shares, Value: $0.00
+  Stock_E: 0.00 shares, Value: $0.00
+
+Day 211: Portfolio Value: $100,000.00
+  Cash: $100,000.00
+  Stock_A: 0.00 shares, Value: $0.00
+  Stock_B: 0.00 shares, Value: $0.00
+  Stock_C: 0.00 shares, Value: $0.00
+  Stock_D: 0.00 shares, Value: $0.00
+  Stock_E: 0.00 shares, Value: $0.00
+
+Day 216: Portfolio Value: $100,000.00
+  Cash: $100,000.00
+  Stock_A: 0.00 shares, Value: $0.00
+  Stock_B: 0.00 shares, Value: $0.00
+  Stock_C: 0.00 shares, Value: $0.00
+  Stock_D: 0.00 shares, Value: $0.00
+  Stock_E: 0.00 shares, Value: $0.00
+
+Day 221: Portfolio Value: $100,000.00
+  Cash: $100,000.00
+  Stock_A: 0.00 shares, Value: $0.00
+  Stock_B: 0.00 shares, Value: $0.00
+  Stock_C: 0.00 shares, Value: $0.00
+  Stock_D: 0.00 shares, Value: $0.00
+  Stock_E: 0.00 shares, Value: $0.00
+
+Day 226: Portfolio Value: $100,000.00
+  Cash: $100,000.00
+  Stock_A: 0.00 shares, Value: $0.00
+  Stock_B: 0.00 shares, Value: $0.00
+  Stock_C: 0.00 shares, Value: $0.00
+  Stock_D: 0.00 shares, Value: $0.00
+  Stock_E: 0.00 shares, Value: $0.00
+
+Day 231: Portfolio Value: $100,000.00
+  Cash: $100,000.00
+  Stock_A: 0.00 shares, Value: $0.00
+  Stock_B: 0.00 shares, Value: $0.00
+  Stock_C: 0.00 shares, Value: $0.00
+  Stock_D: 0.00 shares, Value: $0.00
+  Stock_E: 0.00 shares, Value: $0.00
+
+Day 236: Portfolio Value: $100,000.00
+  Cash: $100,000.00
+  Stock_A: 0.00 shares, Value: $0.00
+  Stock_B: 0.00 shares, Value: $0.00
+  Stock_C: 0.00 shares, Value: $0.00
+  Stock_D: 0.00 shares, Value: $0.00
+  Stock_E: 0.00 shares, Value: $0.00
+
+Day 241: Portfolio Value: $100,000.00
+  Cash: $100,000.00
+  Stock_A: 0.00 shares, Value: $0.00
+  Stock_B: 0.00 shares, Value: $0.00
+  Stock_C: 0.00 shares, Value: $0.00
+  Stock_D: 0.00 shares, Value: $0.00
+  Stock_E: 0.00 shares, Value: $0.00
+
+Day 246: Portfolio Value: $100,000.00
+  Cash: $100,000.00
+  Stock_A: 0.00 shares, Value: $0.00
+  Stock_B: 0.00 shares, Value: $0.00
+  Stock_C: 0.00 shares, Value: $0.00
+  Stock_D: 0.00 shares, Value: $0.00
+  Stock_E: 0.00 shares, Value: $0.00
+
+Day 251: Portfolio Value: $100,000.00
+  Cash: $100,000.00
+  Stock_A: 0.00 shares, Value: $0.00
+  Stock_B: 0.00 shares, Value: $0.00
+  Stock_C: 0.00 shares, Value: $0.00
+  Stock_D: 0.00 shares, Value: $0.00
+  Stock_E: 0.00 shares, Value: $0.00

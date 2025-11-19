@@ -1,0 +1,598 @@
+
+
+PORTFOLIO LOG:
+SELL: 67.71 shares of Stock_A at $94.07, Proceeds: $6337.16, Transaction Cost: $31.85, Cash After Sale: $6337.16
+SELL: 163.32 shares of Stock_C at $127.78, Proceeds: $20763.78, Transaction Cost: $104.34, Cash After Sale: $27100.94
+SELL: 119.20 shares of Stock_E at $113.65, Proceeds: $13480.36, Transaction Cost: $67.74, Cash After Sale: $40581.29
+BUY: 299.72 shares of Stock_B at $67.88, Cost: $20446.10, Transaction Cost: $101.72, Cash Remaining: $20135.20
+BUY: 155.07 shares of Stock_D at $129.20, Cost: $20135.20, Transaction Cost: $100.18, Cash Remaining: $0.00
+Day 16: Portfolio Value: $102,007.06
+  Cash: $0.00
+  Stock_A: 147.49 shares, Value: $13,866.85
+  Stock_B: 604.06 shares, Value: $40,192.53
+  Stock_C: 0.00 shares, Value: $0.00
+  Stock_D: 314.22 shares, Value: $41,321.26
+  Stock_E: 58.31 shares, Value: $6,626.43
+
+SELL: 80.06 shares of Stock_A at $94.13, Proceeds: $7498.55, Transaction Cost: $37.68, Cash After Sale: $7498.55
+SELL: 314.22 shares of Stock_D at $132.66, Proceeds: $41476.28, Transaction Cost: $208.42, Cash After Sale: $48974.83
+BUY: 11.84 shares of Stock_B at $66.60, Cost: $792.16, Transaction Cost: $3.94, Cash Remaining: $48182.67
+BUY: 233.50 shares of Stock_C at $129.39, Cost: $30364.02, Transaction Cost: $151.06, Cash Remaining: $17818.65
+BUY: 153.32 shares of Stock_E at $115.64, Cost: $17818.65, Transaction Cost: $88.65, Cash Remaining: $0.00
+Day 21: Portfolio Value: $102,536.32
+  Cash: $0.00
+  Stock_A: 67.43 shares, Value: $6,320.95
+  Stock_B: 615.89 shares, Value: $41,133.57
+  Stock_C: 233.50 shares, Value: $30,373.19
+  Stock_D: 0.00 shares, Value: $0.00
+  Stock_E: 211.62 shares, Value: $24,708.60
+
+SELL: 615.89 shares of Stock_B at $68.86, Proceeds: $42200.07, Transaction Cost: $212.06, Cash After Sale: $42200.07
+BUY: 230.23 shares of Stock_A at $93.71, Cost: $21681.70, Transaction Cost: $107.87, Cash Remaining: $20518.37
+BUY: 36.42 shares of Stock_C at $130.56, Cost: $4778.77, Transaction Cost: $23.77, Cash Remaining: $15739.60
+BUY: 127.45 shares of Stock_E at $122.88, Cost: $15739.60, Transaction Cost: $78.31, Cash Remaining: $0.00
+Day 26: Portfolio Value: $105,268.52
+  Cash: $0.00
+  Stock_A: 297.66 shares, Value: $27,875.74
+  Stock_B: 0.00 shares, Value: $0.00
+  Stock_C: 269.91 shares, Value: $35,775.04
+  Stock_D: 0.00 shares, Value: $0.00
+  Stock_E: 339.07 shares, Value: $41,617.74
+
+SELL: 177.57 shares of Stock_C at $135.97, Proceeds: $24024.03, Transaction Cost: $120.72, Cash After Sale: $24024.03
+SELL: 76.19 shares of Stock_E at $122.41, Proceeds: $9280.22, Transaction Cost: $46.63, Cash After Sale: $33304.25
+BUY: 92.45 shares of Stock_A at $93.10, Cost: $8650.22, Transaction Cost: $43.04, Cash Remaining: $24654.04
+Day 31: Portfolio Value: $105,493.24
+  Cash: $24,654.04
+  Stock_A: 390.11 shares, Value: $35,935.26
+  Stock_B: 0.00 shares, Value: $0.00
+  Stock_C: 92.34 shares, Value: $12,769.70
+  Stock_D: 0.00 shares, Value: $0.00
+  Stock_E: 262.88 shares, Value: $32,134.24
+
+SELL: 162.41 shares of Stock_A at $93.74, Proceeds: $15148.01, Transaction Cost: $76.12, Cash After Sale: $39802.04
+SELL: 262.88 shares of Stock_E at $123.45, Proceeds: $32289.15, Transaction Cost: $162.26, Cash After Sale: $72091.19
+BUY: 209.87 shares of Stock_C at $141.25, Cost: $29791.49, Transaction Cost: $148.22, Cash Remaining: $42299.70
+Day 36: Portfolio Value: $105,353.96
+  Cash: $42,299.70
+  Stock_A: 227.69 shares, Value: $21,528.34
+  Stock_B: 0.00 shares, Value: $0.00
+  Stock_C: 302.21 shares, Value: $41,525.92
+  Stock_D: 0.00 shares, Value: $0.00
+  Stock_E: 0.00 shares, Value: $0.00
+
+SELL: 253.78 shares of Stock_C at $139.21, Proceeds: $35152.60, Transaction Cost: $176.65, Cash After Sale: $77452.30
+BUY: 207.44 shares of Stock_A at $98.09, Cost: $20449.48, Transaction Cost: $101.74, Cash Remaining: $57002.82
+BUY: 629.08 shares of Stock_B at $67.85, Cost: $42895.57, Transaction Cost: $213.41, Cash Remaining: $14107.24
+BUY: 101.35 shares of Stock_D at $138.50, Cost: $14107.24, Transaction Cost: $70.19, Cash Remaining: $0.00
+Day 41: Portfolio Value: $106,050.22
+  Cash: $0.00
+  Stock_A: 435.13 shares, Value: $42,566.82
+  Stock_B: 629.08 shares, Value: $42,404.83
+  Stock_C: 48.43 shares, Value: $6,782.89
+  Stock_D: 101.35 shares, Value: $14,295.69
+  Stock_E: 0.00 shares, Value: $0.00
+
+SELL: 88.21 shares of Stock_A at $98.04, Proceeds: $8604.92, Transaction Cost: $43.24, Cash After Sale: $8604.92
+SELL: 629.08 shares of Stock_B at $66.91, Proceeds: $41880.16, Transaction Cost: $210.45, Cash After Sale: $50485.08
+SELL: 0.03 shares of Stock_D at $139.88, Proceeds: $3.93, Transaction Cost: $0.02, Cash After Sale: $50489.01
+BUY: 62.16 shares of Stock_C at $137.01, Cost: $8559.27, Transaction Cost: $42.58, Cash Remaining: $41929.74
+BUY: 381.32 shares of Stock_E at $109.41, Cost: $41929.74, Transaction Cost: $208.61, Cash Remaining: $0.00
+Day 46: Portfolio Value: $104,753.31
+  Cash: $0.00
+  Stock_A: 346.93 shares, Value: $34,085.65
+  Stock_B: 0.00 shares, Value: $0.00
+  Stock_C: 110.59 shares, Value: $15,397.29
+  Stock_D: 101.32 shares, Value: $14,123.26
+  Stock_E: 381.32 shares, Value: $41,147.11
+
+SELL: 101.32 shares of Stock_D at $136.85, Proceeds: $13796.53, Transaction Cost: $69.33, Cash After Sale: $13796.53
+SELL: 73.13 shares of Stock_E at $110.42, Proceeds: $8034.00, Transaction Cost: $40.37, Cash After Sale: $21830.53
+BUY: 90.46 shares of Stock_A at $95.39, Cost: $8671.88, Transaction Cost: $43.14, Cash Remaining: $13158.65
+BUY: 95.01 shares of Stock_C at $137.81, Cost: $13158.65, Transaction Cost: $65.47, Cash Remaining: $0.00
+Day 51: Portfolio Value: $103,529.78
+  Cash: $0.00
+  Stock_A: 437.39 shares, Value: $41,231.83
+  Stock_B: 0.00 shares, Value: $0.00
+  Stock_C: 205.60 shares, Value: $28,328.32
+  Stock_D: 0.00 shares, Value: $0.00
+  Stock_E: 308.19 shares, Value: $33,969.63
+
+SELL: 6.18 shares of Stock_A at $97.11, Proceeds: $596.97, Transaction Cost: $3.00, Cash After Sale: $596.97
+SELL: 158.15 shares of Stock_C at $143.57, Proceeds: $22591.31, Transaction Cost: $113.52, Cash After Sale: $23188.29
+SELL: 308.19 shares of Stock_E at $106.09, Proceeds: $32532.52, Transaction Cost: $163.48, Cash After Sale: $55720.81
+BUY: 411.73 shares of Stock_B at $67.78, Cost: $28047.44, Transaction Cost: $139.54, Cash Remaining: $27673.37
+BUY: 196.70 shares of Stock_D at $139.99, Cost: $27673.37, Transaction Cost: $137.68, Cash Remaining: $0.00
+Day 56: Portfolio Value: $105,055.46
+  Cash: $0.00
+  Stock_A: 431.21 shares, Value: $42,266.15
+  Stock_B: 411.73 shares, Value: $28,154.75
+  Stock_C: 47.45 shares, Value: $6,609.31
+  Stock_D: 196.70 shares, Value: $28,025.25
+  Stock_E: 0.00 shares, Value: $0.00
+
+SELL: 9.36 shares of Stock_A at $100.23, Proceeds: $933.07, Transaction Cost: $4.69, Cash After Sale: $933.07
+SELL: 196.01 shares of Stock_D at $142.69, Proceeds: $27827.84, Transaction Cost: $139.84, Cash After Sale: $28760.92
+BUY: 207.95 shares of Stock_B at $68.24, Cost: $14260.60, Transaction Cost: $70.95, Cash Remaining: $14500.32
+BUY: 62.55 shares of Stock_C at $133.35, Cost: $8382.95, Transaction Cost: $41.71, Cash Remaining: $6117.37
+BUY: 57.41 shares of Stock_E at $106.02, Cost: $6117.37, Transaction Cost: $30.43, Cash Remaining: $0.00
+Day 61: Portfolio Value: $105,220.24
+  Cash: $0.00
+  Stock_A: 421.85 shares, Value: $41,925.26
+  Stock_B: 619.68 shares, Value: $42,498.24
+  Stock_C: 110.00 shares, Value: $14,556.39
+  Stock_D: 0.70 shares, Value: $99.15
+  Stock_E: 57.41 shares, Value: $6,141.20
+
+SELL: 421.85 shares of Stock_A at $97.15, Proceeds: $40778.14, Transaction Cost: $204.92, Cash After Sale: $40778.14
+SELL: 317.70 shares of Stock_B at $69.61, Proceeds: $22005.48, Transaction Cost: $110.58, Cash After Sale: $62783.63
+SELL: 110.00 shares of Stock_C at $131.77, Proceeds: $14422.80, Transaction Cost: $72.48, Cash After Sale: $77206.43
+BUY: 295.41 shares of Stock_D at $141.99, Cost: $42154.90, Transaction Cost: $209.73, Cash Remaining: $35051.53
+BUY: 313.14 shares of Stock_E at $111.38, Cost: $35051.53, Transaction Cost: $174.39, Cash Remaining: $0.00
+Day 66: Portfolio Value: $103,131.06
+  Cash: $0.00
+  Stock_A: 0.00 shares, Value: $0.00
+  Stock_B: 301.98 shares, Value: $21,167.79
+  Stock_C: 0.00 shares, Value: $0.00
+  Stock_D: 296.10 shares, Value: $41,039.91
+  Stock_E: 370.56 shares, Value: $40,923.36
+
+SELL: 23.19 shares of Stock_D at $150.62, Proceeds: $3474.83, Transaction Cost: $17.46, Cash After Sale: $3474.83
+SELL: 311.20 shares of Stock_E at $101.06, Proceeds: $31293.32, Transaction Cost: $157.25, Cash After Sale: $34768.15
+BUY: 297.14 shares of Stock_B at $68.61, Cost: $20489.38, Transaction Cost: $101.94, Cash Remaining: $14278.77
+BUY: 104.63 shares of Stock_C at $135.79, Cost: $14278.77, Transaction Cost: $71.04, Cash Remaining: $0.00
+Day 71: Portfolio Value: $102,997.87
+  Cash: $0.00
+  Stock_A: 0.00 shares, Value: $0.00
+  Stock_B: 599.12 shares, Value: $41,324.96
+  Stock_C: 104.63 shares, Value: $14,486.87
+  Stock_D: 272.92 shares, Value: $41,157.74
+  Stock_E: 59.35 shares, Value: $6,028.30
+
+SELL: 599.12 shares of Stock_B at $70.86, Proceeds: $42243.12, Transaction Cost: $212.28, Cash After Sale: $42243.12
+SELL: 59.35 shares of Stock_E at $100.31, Proceeds: $5923.65, Transaction Cost: $29.77, Cash After Sale: $48166.77
+BUY: 432.00 shares of Stock_A at $96.76, Cost: $42007.17, Transaction Cost: $208.99, Cash Remaining: $6159.60
+BUY: 42.90 shares of Stock_C at $141.66, Cost: $6107.85, Transaction Cost: $30.39, Cash Remaining: $51.75
+BUY: 0.34 shares of Stock_D at $151.20, Cost: $51.75, Transaction Cost: $0.26, Cash Remaining: $0.00
+Day 76: Portfolio Value: $104,705.20
+  Cash: $0.00
+  Stock_A: 432.00 shares, Value: $41,932.18
+  Stock_B: 0.00 shares, Value: $0.00
+  Stock_C: 147.53 shares, Value: $21,147.37
+  Stock_D: 273.26 shares, Value: $41,625.65
+  Stock_E: 0.00 shares, Value: $0.00
+
+SELL: 138.98 shares of Stock_A at $93.60, Proceeds: $12943.66, Transaction Cost: $65.04, Cash After Sale: $12943.66
+SELL: 147.53 shares of Stock_C at $143.86, Proceeds: $21117.76, Transaction Cost: $106.12, Cash After Sale: $34061.42
+SELL: 35.14 shares of Stock_D at $157.45, Proceeds: $5504.55, Transaction Cost: $27.66, Cash After Sale: $39565.97
+BUY: 181.65 shares of Stock_B at $72.04, Cost: $13152.27, Transaction Cost: $65.43, Cash Remaining: $26413.70
+BUY: 262.53 shares of Stock_E at $100.11, Cost: $26413.70, Transaction Cost: $131.41, Cash Remaining: $0.00
+Day 81: Portfolio Value: $105,134.28
+  Cash: $0.00
+  Stock_A: 293.02 shares, Value: $27,643.94
+  Stock_B: 181.65 shares, Value: $13,162.07
+  Stock_C: 0.00 shares, Value: $0.00
+  Stock_D: 238.12 shares, Value: $37,706.91
+  Stock_E: 262.53 shares, Value: $26,621.35
+
+SELL: 73.81 shares of Stock_A at $94.99, Proceeds: $6976.41, Transaction Cost: $35.06, Cash After Sale: $6976.41
+SELL: 262.53 shares of Stock_E at $99.86, Proceeds: $26085.08, Transaction Cost: $131.08, Cash After Sale: $33061.50
+BUY: 399.07 shares of Stock_B at $71.71, Cost: $28760.51, Transaction Cost: $143.09, Cash Remaining: $4300.99
+BUY: 27.52 shares of Stock_D at $155.52, Cost: $4300.99, Transaction Cost: $21.40, Cash Remaining: $0.00
+Day 86: Portfolio Value: $103,778.77
+  Cash: $0.00
+  Stock_A: 219.20 shares, Value: $20,653.78
+  Stock_B: 580.72 shares, Value: $41,345.27
+  Stock_C: 0.00 shares, Value: $0.00
+  Stock_D: 265.64 shares, Value: $41,779.72
+  Stock_E: 0.00 shares, Value: $0.00
+
+SELL: 517.98 shares of Stock_B at $72.07, Proceeds: $37143.96, Transaction Cost: $186.65, Cash After Sale: $37143.96
+SELL: 37.25 shares of Stock_D at $149.79, Proceeds: $5552.51, Transaction Cost: $27.90, Cash After Sale: $42696.47
+BUY: 20.07 shares of Stock_A at $95.17, Cost: $1919.26, Transaction Cost: $9.55, Cash Remaining: $40777.21
+BUY: 383.49 shares of Stock_E at $105.80, Cost: $40777.21, Transaction Cost: $202.87, Cash Remaining: $0.00
+Day 91: Portfolio Value: $100,920.98
+  Cash: $0.00
+  Stock_A: 239.27 shares, Value: $22,872.34
+  Stock_B: 62.74 shares, Value: $4,500.89
+  Stock_C: 0.00 shares, Value: $0.00
+  Stock_D: 228.38 shares, Value: $33,413.97
+  Stock_E: 383.49 shares, Value: $40,133.79
+
+SELL: 239.27 shares of Stock_A at $93.88, Proceeds: $22351.27, Transaction Cost: $112.32, Cash After Sale: $22351.27
+SELL: 9.46 shares of Stock_E at $108.03, Proceeds: $1016.48, Transaction Cost: $5.11, Cash After Sale: $23367.76
+BUY: 219.29 shares of Stock_B at $71.64, Cost: $15787.55, Transaction Cost: $78.55, Cash Remaining: $7580.21
+BUY: 52.79 shares of Stock_D at $142.88, Cost: $7580.21, Transaction Cost: $37.71, Cash Remaining: $0.00
+Day 96: Portfolio Value: $100,653.22
+  Cash: $0.00
+  Stock_A: 0.00 shares, Value: $0.00
+  Stock_B: 282.03 shares, Value: $20,290.52
+  Stock_C: 0.00 shares, Value: $0.00
+  Stock_D: 281.17 shares, Value: $40,323.13
+  Stock_E: 374.03 shares, Value: $40,039.57
+
+SELL: 281.17 shares of Stock_D at $142.19, Proceeds: $39780.01, Transaction Cost: $199.90, Cash After Sale: $39780.01
+SELL: 374.03 shares of Stock_E at $106.13, Proceeds: $39495.94, Transaction Cost: $198.47, Cash After Sale: $79275.95
+BUY: 256.99 shares of Stock_A at $93.87, Cost: $24243.85, Transaction Cost: $120.62, Cash Remaining: $55032.10
+BUY: 216.73 shares of Stock_B at $71.86, Cost: $15652.38, Transaction Cost: $77.87, Cash Remaining: $39379.72
+BUY: 277.89 shares of Stock_C at $141.00, Cost: $39379.72, Transaction Cost: $195.92, Cash Remaining: $0.00
+Day 101: Portfolio Value: $98,699.82
+  Cash: $0.00
+  Stock_A: 256.99 shares, Value: $23,996.02
+  Stock_B: 498.76 shares, Value: $35,804.53
+  Stock_C: 277.89 shares, Value: $38,899.28
+  Stock_D: 0.00 shares, Value: $0.00
+  Stock_E: 0.00 shares, Value: $0.00
+
+SELL: 498.76 shares of Stock_B at $71.43, Proceeds: $35447.13, Transaction Cost: $178.13, Cash After Sale: $35447.13
+SELL: 127.11 shares of Stock_C at $135.73, Proceeds: $17165.46, Transaction Cost: $86.26, Cash After Sale: $52612.59
+BUY: 152.95 shares of Stock_A at $92.63, Cost: $14239.17, Transaction Cost: $70.84, Cash Remaining: $38373.42
+BUY: 212.43 shares of Stock_D at $147.61, Cost: $31514.40, Transaction Cost: $156.79, Cash Remaining: $6859.02
+BUY: 62.54 shares of Stock_E at $109.12, Cost: $6859.02, Transaction Cost: $34.12, Cash Remaining: $0.00
+Day 106: Portfolio Value: $96,480.53
+  Cash: $0.00
+  Stock_A: 409.94 shares, Value: $37,914.69
+  Stock_B: 0.00 shares, Value: $0.00
+  Stock_C: 150.78 shares, Value: $20,121.25
+  Stock_D: 212.43 shares, Value: $31,674.18
+  Stock_E: 62.54 shares, Value: $6,770.41
+
+SELL: 409.94 shares of Stock_A at $91.95, Proceeds: $37507.15, Transaction Cost: $188.48, Cash After Sale: $37507.15
+SELL: 212.43 shares of Stock_D at $149.55, Proceeds: $31609.83, Transaction Cost: $158.84, Cash After Sale: $69116.99
+BUY: 532.90 shares of Stock_B at $72.20, Cost: $38666.52, Transaction Cost: $192.37, Cash Remaining: $30450.46
+BUY: 144.64 shares of Stock_C at $130.23, Cost: $18931.14, Transaction Cost: $94.18, Cash Remaining: $11519.32
+BUY: 101.20 shares of Stock_E at $113.26, Cost: $11519.32, Transaction Cost: $57.31, Cash Remaining: $0.00
+Day 111: Portfolio Value: $95,354.53
+  Cash: $0.00
+  Stock_A: 0.00 shares, Value: $0.00
+  Stock_B: 532.90 shares, Value: $39,087.73
+  Stock_C: 295.42 shares, Value: $37,669.98
+  Stock_D: 0.00 shares, Value: $0.00
+  Stock_E: 163.74 shares, Value: $18,596.82
+
+SELL: 405.98 shares of Stock_B at $72.82, Proceeds: $29417.24, Transaction Cost: $147.83, Cash After Sale: $29417.24
+SELL: 219.49 shares of Stock_C at $131.53, Proceeds: $28724.81, Transaction Cost: $144.35, Cash After Sale: $58142.05
+SELL: 163.74 shares of Stock_E at $112.89, Proceeds: $18391.52, Transaction Cost: $92.42, Cash After Sale: $76533.56
+BUY: 418.58 shares of Stock_A at $91.88, Cost: $38651.37, Transaction Cost: $192.30, Cash Remaining: $37882.19
+BUY: 265.96 shares of Stock_D at $141.73, Cost: $37882.19, Transaction Cost: $188.47, Cash Remaining: $0.00
+Day 116: Portfolio Value: $96,561.11
+  Cash: $0.00
+  Stock_A: 418.58 shares, Value: $38,569.45
+  Stock_B: 126.92 shares, Value: $9,293.54
+  Stock_C: 75.93 shares, Value: $10,193.21
+  Stock_D: 265.96 shares, Value: $38,504.92
+  Stock_E: 0.00 shares, Value: $0.00
+
+SELL: 418.58 shares of Stock_A at $89.41, Proceeds: $37239.12, Transaction Cost: $187.13, Cash After Sale: $37239.12
+SELL: 265.96 shares of Stock_D at $139.91, Proceeds: $37025.13, Transaction Cost: $186.06, Cash After Sale: $74264.25
+BUY: 211.72 shares of Stock_B at $72.25, Cost: $15373.78, Transaction Cost: $76.49, Cash Remaining: $58890.47
+BUY: 150.73 shares of Stock_C at $142.55, Cost: $21594.86, Transaction Cost: $107.44, Cash Remaining: $37295.61
+BUY: 311.27 shares of Stock_E at $119.22, Cost: $37295.61, Transaction Cost: $185.55, Cash Remaining: $0.00
+Day 121: Portfolio Value: $92,687.28
+  Cash: $0.00
+  Stock_A: 0.00 shares, Value: $0.00
+  Stock_B: 338.64 shares, Value: $24,416.23
+  Stock_C: 226.66 shares, Value: $32,085.69
+  Stock_D: 0.00 shares, Value: $0.00
+  Stock_E: 311.27 shares, Value: $36,185.36
+
+SELL: 88.70 shares of Stock_C at $133.11, Proceeds: $11747.16, Transaction Cost: $59.03, Cash After Sale: $11747.16
+SELL: 311.27 shares of Stock_E at $116.99, Proceeds: $36233.57, Transaction Cost: $182.08, Cash After Sale: $47980.73
+BUY: 154.22 shares of Stock_B at $74.52, Cost: $11550.20, Transaction Cost: $57.46, Cash Remaining: $36430.53
+Day 126: Portfolio Value: $91,726.54
+  Cash: $36,430.53
+  Stock_A: 0.00 shares, Value: $0.00
+  Stock_B: 492.86 shares, Value: $37,070.31
+  Stock_C: 137.97 shares, Value: $18,225.70
+  Stock_D: 0.00 shares, Value: $0.00
+  Stock_E: 0.00 shares, Value: $0.00
+
+SELL: 402.85 shares of Stock_B at $74.01, Proceeds: $29666.53, Transaction Cost: $149.08, Cash After Sale: $66097.07
+SELL: 51.53 shares of Stock_C at $134.58, Proceeds: $6900.04, Transaction Cost: $34.67, Cash After Sale: $72997.11
+BUY: 396.66 shares of Stock_A at $92.25, Cost: $36773.38, Transaction Cost: $182.95, Cash Remaining: $36223.73
+Day 131: Portfolio Value: $90,999.54
+  Cash: $36,223.73
+  Stock_A: 396.66 shares, Value: $36,614.37
+  Stock_B: 90.01 shares, Value: $6,603.32
+  Stock_C: 86.44 shares, Value: $11,558.12
+  Stock_D: 0.00 shares, Value: $0.00
+  Stock_E: 0.00 shares, Value: $0.00
+
+SELL: 11.85 shares of Stock_A at $94.62, Proceeds: $1115.62, Transaction Cost: $5.61, Cash After Sale: $37339.35
+SELL: 86.44 shares of Stock_C at $124.16, Proceeds: $10678.48, Transaction Cost: $53.66, Cash After Sale: $48017.82
+BUY: 5.10 shares of Stock_B at $72.66, Cost: $372.16, Transaction Cost: $1.85, Cash Remaining: $47645.66
+BUY: 256.07 shares of Stock_D at $142.20, Cost: $36593.63, Transaction Cost: $182.06, Cash Remaining: $11052.04
+BUY: 90.67 shares of Stock_E at $121.29, Cost: $11052.04, Transaction Cost: $54.99, Cash Remaining: $0.00
+Day 136: Portfolio Value: $91,557.74
+  Cash: $0.00
+  Stock_A: 384.81 shares, Value: $36,591.67
+  Stock_B: 95.10 shares, Value: $6,999.54
+  Stock_C: 0.00 shares, Value: $0.00
+  Stock_D: 256.07 shares, Value: $36,757.41
+  Stock_E: 90.67 shares, Value: $11,209.12
+
+SELL: 111.79 shares of Stock_A at $93.00, Proceeds: $10344.42, Transaction Cost: $51.98, Cash After Sale: $10344.42
+SELL: 256.07 shares of Stock_D at $141.50, Proceeds: $36052.36, Transaction Cost: $181.17, Cash After Sale: $46396.78
+BUY: 232.51 shares of Stock_B at $73.55, Cost: $17187.38, Transaction Cost: $85.51, Cash Remaining: $29209.40
+BUY: 36.86 shares of Stock_C at $120.50, Cost: $4464.09, Transaction Cost: $22.21, Cash Remaining: $24745.32
+BUY: 205.44 shares of Stock_E at $119.85, Cost: $24745.32, Transaction Cost: $123.11, Cash Remaining: $0.00
+Day 141: Portfolio Value: $90,561.01
+  Cash: $0.00
+  Stock_A: 273.02 shares, Value: $25,621.93
+  Stock_B: 327.61 shares, Value: $24,052.38
+  Stock_C: 36.86 shares, Value: $4,398.14
+  Stock_D: 0.00 shares, Value: $0.00
+  Stock_E: 296.11 shares, Value: $36,488.55
+
+SELL: 273.02 shares of Stock_A at $95.09, Proceeds: $25831.84, Transaction Cost: $129.81, Cash After Sale: $25831.84
+SELL: 296.11 shares of Stock_E at $132.16, Proceeds: $38937.36, Transaction Cost: $195.67, Cash After Sale: $64769.20
+BUY: 26.00 shares of Stock_B at $74.27, Cost: $1940.70, Transaction Cost: $9.66, Cash Remaining: $62828.50
+BUY: 211.87 shares of Stock_C at $120.88, Cost: $25738.73, Transaction Cost: $128.05, Cash Remaining: $37089.77
+BUY: 253.57 shares of Stock_D at $145.54, Cost: $37089.77, Transaction Cost: $184.53, Cash Remaining: $0.00
+Day 146: Portfolio Value: $93,931.93
+  Cash: $0.00
+  Stock_A: 0.00 shares, Value: $0.00
+  Stock_B: 353.61 shares, Value: $26,338.48
+  Stock_C: 248.73 shares, Value: $30,344.39
+  Stock_D: 253.57 shares, Value: $37,249.06
+  Stock_E: 0.00 shares, Value: $0.00
+
+SELL: 320.62 shares of Stock_B at $73.14, Proceeds: $23331.66, Transaction Cost: $117.24, Cash After Sale: $23331.66
+SELL: 116.94 shares of Stock_C at $125.38, Proceeds: $14589.26, Transaction Cost: $73.31, Cash After Sale: $37920.93
+BUY: 1.60 shares of Stock_D at $148.43, Cost: $238.16, Transaction Cost: $1.18, Cash Remaining: $37682.77
+Day 151: Portfolio Value: $94,192.52
+  Cash: $37,682.77
+  Stock_A: 0.00 shares, Value: $0.00
+  Stock_B: 32.99 shares, Value: $2,414.90
+  Stock_C: 131.79 shares, Value: $16,534.09
+  Stock_D: 255.16 shares, Value: $37,560.76
+  Stock_E: 0.00 shares, Value: $0.00
+
+SELL: 98.13 shares of Stock_D at $145.72, Proceeds: $14227.70, Transaction Cost: $71.50, Cash After Sale: $51910.47
+BUY: 376.26 shares of Stock_A at $98.89, Cost: $37395.21, Transaction Cost: $186.05, Cash Remaining: $14515.26
+BUY: 169.36 shares of Stock_B at $73.67, Cost: $12539.52, Transaction Cost: $62.39, Cash Remaining: $1975.75
+BUY: 16.47 shares of Stock_C at $119.33, Cost: $1975.75, Transaction Cost: $9.83, Cash Remaining: $0.00
+Day 156: Portfolio Value: $92,145.82
+  Cash: $0.00
+  Stock_A: 376.26 shares, Value: $36,698.71
+  Stock_B: 202.35 shares, Value: $14,692.56
+  Stock_C: 148.26 shares, Value: $18,050.20
+  Stock_D: 157.04 shares, Value: $22,704.35
+  Stock_E: 0.00 shares, Value: $0.00
+
+SELL: 120.42 shares of Stock_A at $95.34, Proceeds: $11423.81, Transaction Cost: $57.41, Cash After Sale: $11423.81
+SELL: 5.88 shares of Stock_C at $119.69, Proceeds: $700.75, Transaction Cost: $3.52, Cash After Sale: $12124.57
+SELL: 86.61 shares of Stock_D at $150.14, Proceeds: $12938.90, Transaction Cost: $65.02, Cash After Sale: $25063.47
+BUY: 84.08 shares of Stock_B at $70.95, Cost: $5995.04, Transaction Cost: $29.83, Cash Remaining: $19068.43
+BUY: 132.26 shares of Stock_E at $143.46, Cost: $19068.43, Transaction Cost: $94.87, Cash Remaining: $0.00
+Day 161: Portfolio Value: $90,972.89
+  Cash: $0.00
+  Stock_A: 255.84 shares, Value: $24,351.71
+  Stock_B: 286.43 shares, Value: $20,146.28
+  Stock_C: 142.38 shares, Value: $17,317.49
+  Stock_D: 70.43 shares, Value: $10,727.96
+  Stock_E: 132.26 shares, Value: $18,429.45
+
+SELL: 80.85 shares of Stock_C at $122.06, Proceeds: $9819.86, Transaction Cost: $49.35, Cash After Sale: $9819.86
+SELL: 70.43 shares of Stock_D at $153.72, Proceeds: $10771.78, Transaction Cost: $54.13, Cash After Sale: $20591.64
+BUY: 133.70 shares of Stock_A at $92.47, Cost: $12424.50, Transaction Cost: $61.81, Cash Remaining: $8167.14
+BUY: 1.66 shares of Stock_B at $68.94, Cost: $115.02, Transaction Cost: $0.57, Cash Remaining: $8052.12
+BUY: 57.47 shares of Stock_E at $139.42, Cost: $8052.12, Transaction Cost: $40.06, Cash Remaining: $0.00
+Day 166: Portfolio Value: $90,269.81
+  Cash: $0.00
+  Stock_A: 389.54 shares, Value: $36,653.96
+  Stock_B: 288.09 shares, Value: $19,651.54
+  Stock_C: 61.53 shares, Value: $7,394.36
+  Stock_D: 0.00 shares, Value: $0.00
+  Stock_E: 189.72 shares, Value: $26,569.96
+
+SELL: 5.56 shares of Stock_A at $95.73, Proceeds: $529.71, Transaction Cost: $2.66, Cash After Sale: $529.71
+SELL: 19.16 shares of Stock_B at $68.34, Proceeds: $1303.05, Transaction Cost: $6.55, Cash After Sale: $1832.76
+SELL: 61.53 shares of Stock_C at $123.14, Proceeds: $7538.60, Transaction Cost: $37.88, Cash After Sale: $9371.37
+SELL: 189.72 shares of Stock_E at $144.10, Proceeds: $27202.54, Transaction Cost: $136.70, Cash After Sale: $36573.90
+BUY: 242.27 shares of Stock_D at $150.21, Cost: $36573.90, Transaction Cost: $181.96, Cash Remaining: $0.00
+Day 171: Portfolio Value: $90,920.42
+  Cash: $0.00
+  Stock_A: 383.98 shares, Value: $36,742.15
+  Stock_B: 268.93 shares, Value: $18,536.13
+  Stock_C: 0.00 shares, Value: $0.00
+  Stock_D: 242.27 shares, Value: $35,642.13
+  Stock_E: 0.00 shares, Value: $0.00
+
+SELL: 187.50 shares of Stock_A at $96.34, Proceeds: $17973.09, Transaction Cost: $90.32, Cash After Sale: $17973.09
+SELL: 79.08 shares of Stock_B at $68.11, Proceeds: $5359.91, Transaction Cost: $26.93, Cash After Sale: $23333.00
+SELL: 39.24 shares of Stock_D at $147.46, Proceeds: $5758.01, Transaction Cost: $28.93, Cash After Sale: $29091.01
+BUY: 20.52 shares of Stock_C at $121.81, Cost: $2511.84, Transaction Cost: $12.50, Cash Remaining: $26579.16
+BUY: 175.79 shares of Stock_E at $150.45, Cost: $26579.16, Transaction Cost: $132.23, Cash Remaining: $0.00
+Day 176: Portfolio Value: $91,683.05
+  Cash: $0.00
+  Stock_A: 196.49 shares, Value: $19,100.82
+  Stock_B: 189.84 shares, Value: $12,997.31
+  Stock_C: 20.52 shares, Value: $2,446.79
+  Stock_D: 203.03 shares, Value: $30,311.70
+  Stock_E: 175.79 shares, Value: $26,826.43
+
+SELL: 196.49 shares of Stock_A at $100.92, Proceeds: $19729.92, Transaction Cost: $99.15, Cash After Sale: $19729.92
+SELL: 203.03 shares of Stock_D at $150.22, Proceeds: $30346.00, Transaction Cost: $152.49, Cash After Sale: $50075.92
+BUY: 342.82 shares of Stock_B at $70.41, Cost: $24258.28, Transaction Cost: $120.69, Cash Remaining: $25817.64
+BUY: 144.34 shares of Stock_C at $113.75, Cost: $16500.26, Transaction Cost: $82.09, Cash Remaining: $9317.38
+BUY: 58.77 shares of Stock_E at $157.76, Cost: $9317.38, Transaction Cost: $46.36, Cash Remaining: $0.00
+Day 181: Portfolio Value: $93,270.59
+  Cash: $0.00
+  Stock_A: 0.00 shares, Value: $0.00
+  Stock_B: 532.66 shares, Value: $37,500.28
+  Stock_C: 164.86 shares, Value: $18,768.53
+  Stock_D: 0.00 shares, Value: $0.00
+  Stock_E: 234.56 shares, Value: $37,001.77
+
+SELL: 0.51 shares of Stock_C at $114.57, Proceeds: $58.35, Transaction Cost: $0.29, Cash After Sale: $58.35
+BUY: 0.66 shares of Stock_B at $70.61, Cost: $46.73, Transaction Cost: $0.23, Cash Remaining: $11.62
+BUY: 0.07 shares of Stock_E at $160.50, Cost: $11.62, Transaction Cost: $0.06, Cash Remaining: $0.00
+Day 186: Portfolio Value: $94,487.82
+  Cash: $0.00
+  Stock_A: 0.00 shares, Value: $0.00
+  Stock_B: 533.31 shares, Value: $37,874.76
+  Stock_C: 164.34 shares, Value: $18,752.89
+  Stock_D: 0.00 shares, Value: $0.00
+  Stock_E: 234.63 shares, Value: $37,860.18
+
+SELL: 28.93 shares of Stock_B at $70.63, Proceeds: $2032.76, Transaction Cost: $10.21, Cash After Sale: $2032.76
+SELL: 164.34 shares of Stock_C at $115.47, Proceeds: $18882.52, Transaction Cost: $94.89, Cash After Sale: $20915.27
+SELL: 2.30 shares of Stock_E at $163.62, Proceeds: $374.76, Transaction Cost: $1.88, Cash After Sale: $21290.03
+Day 191: Portfolio Value: $94,832.56
+  Cash: $21,290.03
+  Stock_A: 0.00 shares, Value: $0.00
+  Stock_B: 504.39 shares, Value: $35,950.75
+  Stock_C: 0.00 shares, Value: $0.00
+  Stock_D: 0.00 shares, Value: $0.00
+  Stock_E: 232.33 shares, Value: $37,591.78
+
+SELL: 283.63 shares of Stock_B at $72.06, Proceeds: $20337.27, Transaction Cost: $102.20, Cash After Sale: $41627.30
+SELL: 82.53 shares of Stock_E at $157.72, Proceeds: $12950.41, Transaction Cost: $65.08, Cash After Sale: $54577.71
+BUY: 146.84 shares of Stock_C at $116.00, Cost: $17118.47, Transaction Cost: $85.17, Cash Remaining: $37459.24
+BUY: 252.93 shares of Stock_D at $147.36, Cost: $37459.24, Transaction Cost: $186.36, Cash Remaining: $0.00
+Day 196: Portfolio Value: $93,207.48
+  Cash: $0.00
+  Stock_A: 0.00 shares, Value: $0.00
+  Stock_B: 220.76 shares, Value: $15,765.54
+  Stock_C: 146.84 shares, Value: $17,113.59
+  Stock_D: 252.93 shares, Value: $36,853.15
+  Stock_E: 149.80 shares, Value: $23,475.21
+
+SELL: 98.78 shares of Stock_B at $72.35, Proceeds: $7111.01, Transaction Cost: $35.73, Cash After Sale: $7111.01
+SELL: 6.81 shares of Stock_D at $156.75, Proceeds: $1062.09, Transaction Cost: $5.34, Cash After Sale: $8173.10
+SELL: 149.80 shares of Stock_E at $153.49, Proceeds: $22877.82, Transaction Cost: $114.96, Cash After Sale: $31050.92
+BUY: 285.57 shares of Stock_A at $101.68, Cost: $29182.67, Transaction Cost: $145.19, Cash Remaining: $1868.24
+Day 201: Portfolio Value: $95,495.88
+  Cash: $1,868.24
+  Stock_A: 285.57 shares, Value: $28,651.19
+  Stock_B: 121.97 shares, Value: $8,807.50
+  Stock_C: 146.84 shares, Value: $17,595.50
+  Stock_D: 246.12 shares, Value: $38,573.45
+  Stock_E: 0.00 shares, Value: $0.00
+
+SELL: 121.97 shares of Stock_B at $70.35, Proceeds: $8538.40, Transaction Cost: $42.91, Cash After Sale: $10406.64
+SELL: 7.37 shares of Stock_D at $159.30, Proceeds: $1167.47, Transaction Cost: $5.87, Cash After Sale: $11574.11
+BUY: 35.03 shares of Stock_A at $99.54, Cost: $3504.08, Transaction Cost: $17.43, Cash Remaining: $8070.03
+Day 206: Portfolio Value: $95,902.86
+  Cash: $8,070.03
+  Stock_A: 320.59 shares, Value: $31,548.09
+  Stock_B: 0.00 shares, Value: $0.00
+  Stock_C: 146.84 shares, Value: $17,918.95
+  Stock_D: 238.76 shares, Value: $38,365.79
+  Stock_E: 0.00 shares, Value: $0.00
+
+SELL: 120.24 shares of Stock_A at $100.81, Proceeds: $12060.62, Transaction Cost: $60.61, Cash After Sale: $20130.65
+SELL: 56.90 shares of Stock_C at $125.92, Proceeds: $7128.32, Transaction Cost: $35.82, Cash After Sale: $27258.97
+SELL: 3.01 shares of Stock_D at $167.93, Proceeds: $502.90, Transaction Cost: $2.53, Cash After Sale: $27761.87
+BUY: 223.76 shares of Stock_B at $70.98, Cost: $15961.15, Transaction Cost: $79.41, Cash Remaining: $11800.72
+BUY: 77.10 shares of Stock_E at $152.30, Cost: $11800.72, Transaction Cost: $58.71, Cash Remaining: $0.00
+Day 211: Portfolio Value: $99,324.91
+  Cash: $0.00
+  Stock_A: 200.36 shares, Value: $20,256.55
+  Stock_B: 223.76 shares, Value: $16,030.63
+  Stock_C: 89.94 shares, Value: $11,125.58
+  Stock_D: 235.75 shares, Value: $39,827.60
+  Stock_E: 77.10 shares, Value: $12,084.54
+
+SELL: 62.03 shares of Stock_A at $101.27, Proceeds: $6250.71, Transaction Cost: $31.41, Cash After Sale: $6250.71
+SELL: 41.09 shares of Stock_C at $125.06, Proceeds: $5112.67, Transaction Cost: $25.69, Cash After Sale: $11363.38
+SELL: 1.23 shares of Stock_D at $168.73, Proceeds: $206.43, Transaction Cost: $1.04, Cash After Sale: $11569.81
+SELL: 77.10 shares of Stock_E at $151.86, Proceeds: $11649.89, Transaction Cost: $58.54, Cash After Sale: $23219.70
+BUY: 325.09 shares of Stock_B at $71.07, Cost: $23219.70, Transaction Cost: $115.52, Cash Remaining: $0.00
+Day 216: Portfolio Value: $98,978.78
+  Cash: $0.00
+  Stock_A: 138.32 shares, Value: $13,884.14
+  Stock_B: 548.85 shares, Value: $39,239.93
+  Stock_C: 48.85 shares, Value: $6,010.86
+  Stock_D: 234.52 shares, Value: $39,843.85
+  Stock_E: 0.00 shares, Value: $0.00
+
+SELL: 29.74 shares of Stock_C at $124.99, Proceeds: $3699.01, Transaction Cost: $18.59, Cash After Sale: $3699.01
+SELL: 2.96 shares of Stock_D at $169.65, Proceeds: $499.64, Transaction Cost: $2.51, Cash After Sale: $4198.66
+BUY: 30.27 shares of Stock_A at $102.34, Cost: $3112.83, Transaction Cost: $15.49, Cash Remaining: $1085.83
+BUY: 15.54 shares of Stock_B at $69.53, Cost: $1085.83, Transaction Cost: $5.40, Cash Remaining: $0.00
+Day 221: Portfolio Value: $98,062.82
+  Cash: $0.00
+  Stock_A: 168.59 shares, Value: $17,354.31
+  Stock_B: 564.39 shares, Value: $38,654.72
+  Stock_C: 19.11 shares, Value: $2,421.29
+  Stock_D: 231.56 shares, Value: $39,632.50
+  Stock_E: 0.00 shares, Value: $0.00
+
+SELL: 381.55 shares of Stock_B at $68.98, Proceeds: $26187.24, Transaction Cost: $131.59, Cash After Sale: $26187.24
+SELL: 7.20 shares of Stock_D at $179.79, Proceeds: $1288.51, Transaction Cost: $6.47, Cash After Sale: $27475.75
+BUY: 158.30 shares of Stock_A at $105.62, Cost: $16802.98, Transaction Cost: $83.60, Cash Remaining: $10672.77
+BUY: 57.17 shares of Stock_C at $129.41, Cost: $7435.29, Transaction Cost: $36.99, Cash Remaining: $3237.48
+BUY: 21.88 shares of Stock_E at $147.22, Cost: $3237.48, Transaction Cost: $16.11, Cash Remaining: $0.00
+Day 226: Portfolio Value: $101,123.63
+  Cash: $0.00
+  Stock_A: 326.88 shares, Value: $35,132.34
+  Stock_B: 182.84 shares, Value: $12,675.78
+  Stock_C: 76.28 shares, Value: $9,636.01
+  Stock_D: 224.35 shares, Value: $40,563.34
+  Stock_E: 21.88 shares, Value: $3,116.15
+
+SELL: 5.41 shares of Stock_B at $70.54, Proceeds: $379.93, Transaction Cost: $1.91, Cash After Sale: $379.93
+SELL: 4.21 shares of Stock_D at $190.24, Proceeds: $797.25, Transaction Cost: $4.01, Cash After Sale: $1177.18
+SELL: 10.30 shares of Stock_E at $148.59, Proceeds: $1522.91, Transaction Cost: $7.65, Cash After Sale: $2700.09
+BUY: 19.78 shares of Stock_A at $111.19, Cost: $2209.83, Transaction Cost: $10.99, Cash Remaining: $490.26
+BUY: 3.91 shares of Stock_C at $124.83, Cost: $490.26, Transaction Cost: $2.44, Cash Remaining: $0.00
+Day 231: Portfolio Value: $105,413.63
+  Cash: $0.00
+  Stock_A: 346.66 shares, Value: $38,441.83
+  Stock_B: 177.42 shares, Value: $12,559.84
+  Stock_C: 80.19 shares, Value: $10,287.54
+  Stock_D: 220.14 shares, Value: $42,392.16
+  Stock_E: 11.58 shares, Value: $1,732.26
+
+SELL: 124.55 shares of Stock_B at $69.24, Proceeds: $8580.07, Transaction Cost: $43.12, Cash After Sale: $8580.07
+SELL: 29.99 shares of Stock_C at $127.63, Proceeds: $3809.07, Transaction Cost: $19.14, Cash After Sale: $12389.14
+SELL: 15.81 shares of Stock_D at $187.48, Proceeds: $2948.51, Transaction Cost: $14.82, Cash After Sale: $15337.65
+BUY: 21.48 shares of Stock_A at $114.29, Cost: $2467.40, Transaction Cost: $12.28, Cash Remaining: $12870.25
+Day 236: Portfolio Value: $104,915.12
+  Cash: $12,870.25
+  Stock_A: 368.14 shares, Value: $41,748.00
+  Stock_B: 52.88 shares, Value: $3,694.10
+  Stock_C: 50.19 shares, Value: $6,337.15
+  Stock_D: 204.34 shares, Value: $38,463.65
+  Stock_E: 11.58 shares, Value: $1,801.98
+
+SELL: 368.14 shares of Stock_A at $111.76, Proceeds: $40937.93, Transaction Cost: $205.72, Cash After Sale: $53808.18
+SELL: 204.34 shares of Stock_D at $186.99, Proceeds: $38016.98, Transaction Cost: $191.04, Cash After Sale: $91825.16
+BUY: 247.13 shares of Stock_B at $69.12, Cost: $17166.81, Transaction Cost: $85.41, Cash Remaining: $74658.35
+BUY: 296.72 shares of Stock_C at $119.55, Cost: $35649.19, Transaction Cost: $177.36, Cash Remaining: $39009.16
+BUY: 249.21 shares of Stock_E at $155.75, Cost: $39009.16, Transaction Cost: $194.08, Cash Remaining: $0.00
+Day 241: Portfolio Value: $102,634.39
+  Cash: $0.00
+  Stock_A: 0.00 shares, Value: $0.00
+  Stock_B: 300.01 shares, Value: $20,477.05
+  Stock_C: 346.91 shares, Value: $41,149.58
+  Stock_D: 0.00 shares, Value: $0.00
+  Stock_E: 260.79 shares, Value: $41,007.76
+
+SELL: 59.83 shares of Stock_B at $66.53, Proceeds: $3960.62, Transaction Cost: $19.90, Cash After Sale: $3960.62
+SELL: 3.27 shares of Stock_C at $115.89, Proceeds: $377.40, Transaction Cost: $1.90, Cash After Sale: $4338.02
+SELL: 234.76 shares of Stock_E at $151.06, Proceeds: $35285.44, Transaction Cost: $177.31, Cash After Sale: $39623.46
+BUY: 344.25 shares of Stock_A at $114.53, Cost: $39623.46, Transaction Cost: $197.13, Cash Remaining: $0.00
+Day 246: Portfolio Value: $99,038.43
+  Cash: $0.00
+  Stock_A: 344.25 shares, Value: $39,191.50
+  Stock_B: 240.18 shares, Value: $16,258.55
+  Stock_C: 343.64 shares, Value: $39,605.19
+  Stock_D: 0.00 shares, Value: $0.00
+  Stock_E: 26.03 shares, Value: $3,983.19
+
+SELL: 0.47 shares of Stock_A at $116.29, Proceeds: $54.84, Transaction Cost: $0.28, Cash After Sale: $54.84
+SELL: 343.64 shares of Stock_C at $114.65, Proceeds: $39201.41, Transaction Cost: $196.99, Cash After Sale: $39256.25
+BUY: 339.48 shares of Stock_B at $68.97, Cost: $23530.04, Transaction Cost: $117.06, Cash Remaining: $15726.20
+BUY: 1.94 shares of Stock_E at $151.69, Cost: $295.19, Transaction Cost: $1.47, Cash Remaining: $15431.01
+Day 251: Portfolio Value: $101,166.77
+  Cash: $15,431.01
+  Stock_A: 343.77 shares, Value: $40,843.78
+  Stock_B: 579.66 shares, Value: $40,629.68
+  Stock_C: 0.00 shares, Value: $0.00
+  Stock_D: 0.00 shares, Value: $0.00
+  Stock_E: 27.96 shares, Value: $4,262.31
+
+ Total Transaction Costs: $18,641.11
