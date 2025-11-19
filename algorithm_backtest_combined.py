@@ -9,8 +9,8 @@ import csv
 from typing import Dict, List
 from statsmodels.tsa.arima.model import ARIMA
 from contextlib import contextmanager
+from sklearn.covariance import LedoitWolf
 import threading
-from mgarch import DCC
 import numpy as np 
 
 TRAIN_SIZE = 0.8
@@ -75,21 +75,30 @@ def update_portfolio(curMarket: Market, curPortfolio: Portfolio, context: Contex
             (curMarket.stocks[stock] - context.price_history[stock][-2]) / context.price_history[stock][-2]
             if len(context.price_history[stock]) > 1 else 0)
     # strategy
-    model = ARIMA(context.price_history, order=(hyperparameters["d"], hyperparameters["p"], hyperparameters["q"]))
+    model = ARIMA(context.pct_change, order=(hyperparameters["d"], hyperparameters["p"], hyperparameters["q"]))
     fitted = model.fit()
     mu_next = model.forecast(steps=hyperparameters["steps"]).iloc[0]
     resid = model.resid 
+""" 
+    recent_returns = context.pct_change[stock].iloc[-lookback:]
 
-    dcc = DCC(p=hyperparameters["dcc_p"], q=hyperparameters["dcc_q"])
-    dcc.fit(data=resid) 
-    cov_matrix = dcc.forecast(horizon=1)
+    # Apply exponential weighting if specified
+    if ewma_alpha is not None:
+        weights = np.exp(-ewma_alpha * np.arange(len(recent_returns))[::-1])
+        weights /= weights.sum()  # Normalize weights
+        weighted_returns = recent_returns.mul(weights, axis=0)
+    else:
+        weighted_returns = recent_returns
 
+    # Fit Ledoit-Wolf shrinkage
+    lw = LedoitWolf()
+    shrunk_cov = lw.fit(weighted_returns).covariance_
 
     if context.day == 0:
         for stock in curMarket.stocks:
             max_shares = curPortfolio.cash / (curMarket.stocks[stock] * (1 + Market.transaction_fee))
             curPortfolio.buy(stock, max_shares / 5, curMarket)
-    context.day += 1
+    context.day += 1 """
 
 # Backtesting functions
 def load_price_data(csv_file: str) -> Dict[str, List[float]]:
