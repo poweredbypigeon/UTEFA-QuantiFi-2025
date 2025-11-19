@@ -11,6 +11,10 @@ IMPORTANT:
 - Do not modify the Market or Portfolio class structures
 """
 
+from statsmodels.tsa.arima.model import ARIMA
+from arch import arch_model
+import cvxpy as cp
+
 class Market:
     """
     Represents the stock market with current prices for all available stocks.
@@ -184,6 +188,13 @@ class Context:
             "Stock_D": [],
             "Stock_E": []
         }
+        self.pct_change = {
+            "Stock_A": [],
+            "Stock_B": [],
+            "Stock_C": [],
+            "Stock_D": [],
+            "Stock_E": []
+        }
         self.day = 0
 
 
@@ -217,7 +228,29 @@ def update_portfolio(curMarket: Market, curPortfolio: Portfolio, context: Contex
     # Track prices for each stock
     for stock in curMarket.stocks:
         context.price_history[stock].append(curMarket.stocks[stock])
+        context.pct_change[stock].append(
+            (curMarket.price_history[stock][-1] - context.price_history[stock][-2]) / context.price_history[stock][-2]
+            if len(context.price_history[stock]) > 1 else 0
+        )
     
+    '''
+    TODO:
+    1. develop for loop (combine algorithm.py and backtest.py into 1 file) for hyperparameterization. 
+    2. have a lab.py where I just take data.csv and test out diff strategies (look at the returns. Don't even need to trade)
+    '''
+
+    order = (5, 0, 5)  # AR(5) + MA(5) on returns (no differencing)
+
+    # 2. Fit the model
+    model = ARIMA(context.price_history, order=order)
+    fitted = model.fit()
+
+    # 3. Get a 1-step-ahead forecast
+    forecast_1step = fitted.forecast(steps=1)  # returns a Series
+    next_return_hat = float(forecast_1step.iloc[0])
+
+    print("Predicted next-day return:", next_return_hat)
+
     # Simple buy-and-hold: invest all cash on day 0
     if context.day == 0:
         for stock in curMarket.stocks:
