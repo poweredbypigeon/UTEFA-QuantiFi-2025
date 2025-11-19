@@ -75,10 +75,11 @@ def update_portfolio(curMarket: Market, curPortfolio: Portfolio, context: Contex
             (curMarket.stocks[stock] - context.price_history[stock][-2]) / context.price_history[stock][-2]
             if len(context.price_history[stock]) > 1 else 0)
     # strategy
-    model = ARIMA(context.pct_change, order=(hyperparameters["d"], hyperparameters["p"], hyperparameters["q"]))
-    fitted = model.fit()
-    mu_next = model.forecast(steps=hyperparameters["steps"]).iloc[0]
-    resid = model.resid 
+    
+        model = ARIMA(context.pct_change[stock], order=(hyperparameters["d"], hyperparameters["p"], hyperparameters["q"]))
+        fitted = model.fit()
+        mu_next = model.forecast(steps=hyperparameters["steps"]).iloc[0]
+        resid = model.resid 
 """ 
     recent_returns = context.pct_change[stock].iloc[-lookback:]
 
